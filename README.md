@@ -5,3 +5,7 @@ creating a fully responside and animated sidebar for the Rocketseat Discover cha
 <ul>
     <i class='bx bx-search'></i>
 </ul>
+
+width: calc()
+
+<i class='bx bx-network-chart'></i>
